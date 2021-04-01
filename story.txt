@@ -1,1 +1,2 @@
 this is a story about a little boy
+This is the feature added to master
